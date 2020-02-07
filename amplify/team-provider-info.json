@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-binder-dev-130436-authRole",
+            "UnauthRoleArn": "arn:aws:iam::671629614465:role/amplify-binder-dev-130436-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::671629614465:role/amplify-binder-dev-130436-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-binder-dev-130436-deployment",
+            "UnauthRoleName": "amplify-binder-dev-130436-unauthRole",
+            "StackName": "amplify-binder-dev-130436",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:671629614465:stack/amplify-binder-dev-130436/e3fdb3a0-4999-11ea-b189-06219e647854",
+            "AmplifyAppId": "d16y31w1fadluw"
+        }
+    }
+}
